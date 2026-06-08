@@ -26,13 +26,13 @@ O sistema possui dois perfis principais:
 
 ## Backend
 - Rust
-- Framework HTTP (ex: Actix / Axum – conforme dependências)
+- Framework HTTP Actix
 - JWT para autenticação
 - Hash de senha seguro
 - Arquitetura em camadas (Controller → Repository → Model)
 
 ## Frontend
-- HTML, CSS e JavaScript puro
+- HTML, CSS e JavaScript
 - Interface estática servida pelo backend
 
 ## Banco de Dados
@@ -50,7 +50,6 @@ O sistema possui dois perfis principais:
 
 ---
 
-# Como Executar o Projeto
 
 ## Pré-requisitos
 
@@ -58,8 +57,3 @@ Instalar Rust:
 
 https://www.rust-lang.org/tools/install
 
-Verificar instalação:
-
-```bash
-rustc --version
-cargo --version
