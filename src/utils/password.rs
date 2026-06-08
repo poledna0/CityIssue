@@ -1,7 +1,3 @@
-// ============================================================
-// utils/password.rs — Hashing e verificacao com Argon2 (Req. B1)
-// Referencia: OWASP ASVS V2.4.1 — Argon2id para armazenamento de senhas
-// ============================================================
 
 use argon2::{
     password_hash::{PasswordHash, PasswordHasher, PasswordVerifier, SaltString},

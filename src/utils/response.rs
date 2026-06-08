@@ -1,8 +1,3 @@
-// ============================================================
-// utils/response.rs — Builder de respostas da API (Builder Pattern)
-// Builder Pattern: ApiResponse::success() / ::error() constroem
-// a resposta padronizada sem expor o construtor interno.
-// ============================================================
 
 use actix_web::HttpResponse;
 use serde::Serialize;

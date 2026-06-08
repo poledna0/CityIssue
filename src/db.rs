@@ -1,7 +1,3 @@
-// ============================================================
-// db.rs — Database singleton (Singleton Pattern)
-// Responsavel por criar e manter a conexao SQLite unica.
-// ============================================================
 
 use rusqlite::{Connection, Result};
 

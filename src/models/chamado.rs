@@ -1,6 +1,3 @@
-// ============================================================
-// models/chamado.rs — Entidade Chamado / modelo de dominio principal (MVC - Model)
-// ============================================================
 
 use serde::{Deserialize, Serialize};
 

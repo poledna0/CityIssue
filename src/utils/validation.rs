@@ -1,7 +1,3 @@
-// ============================================================
-// utils/validation.rs — Validacao de entradas (Req. B2)
-// Referencia: OWASP ASVS V5.1.1, SEI CERT IDS00-J
-// ============================================================
 
 use once_cell::sync::Lazy;
 use regex::Regex;

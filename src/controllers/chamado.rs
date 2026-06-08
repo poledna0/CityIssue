@@ -1,7 +1,3 @@
-// ============================================================
-// controllers/chamado.rs — MVC Controller de Chamados (CRUD)
-// Modelo de Dominio Principal: Chamado (relato de problema urbano)
-// ============================================================
 
 use actix_web::{web, HttpRequest, HttpResponse};
 use chrono::Utc;

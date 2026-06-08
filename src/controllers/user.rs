@@ -1,6 +1,3 @@
-// ============================================================
-// controllers/user.rs — MVC Controller de Usuarios
-// ============================================================
 
 use actix_web::{web, HttpRequest, HttpResponse};
 

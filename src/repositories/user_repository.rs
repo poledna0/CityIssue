@@ -1,8 +1,3 @@
-// ============================================================
-// repositories/user_repository.rs — Repository Pattern
-// Abstrai todo acesso a dados de Usuario.
-// Todas as queries usam parametros posicionais (?) evitando SQL Injection (Req. B2).
-// ============================================================
 
 use crate::db::Database;
 use crate::models::user::User;

@@ -1,7 +1,3 @@
-// ============================================================
-// utils/jwt.rs — Geracao e validacao de JWT (Req. A1 / B3)
-// Singleton Pattern: JWT_SECRET e inicializado uma unica vez com once_cell.
-// ============================================================
 
 use jsonwebtoken::{decode, encode, DecodingKey, EncodingKey, Header, Validation};
 use once_cell::sync::Lazy;

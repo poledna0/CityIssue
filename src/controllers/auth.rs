@@ -1,8 +1,3 @@
-// ============================================================
-// controllers/auth.rs — MVC Controller de Autenticacao
-// Implementa: Req. A1 (JWT Spoofing), B1 (Argon2), B3 (JWT),
-//             C4 (Rate Limiting), B2 (Validacao de entrada).
-// ============================================================
 
 use actix_web::{web, HttpRequest, HttpResponse};
 use chrono::Utc;

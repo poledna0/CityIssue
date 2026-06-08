@@ -1,8 +1,3 @@
-// ============================================================
-// repositories/chamado_repository.rs — Repository Pattern
-// Abstrai todo acesso a dados de Chamado.
-// Queries parametrizadas — prevencao de SQL Injection (Req. B2).
-// ============================================================
 
 use crate::db::Database;
 use crate::models::chamado::Chamado;
