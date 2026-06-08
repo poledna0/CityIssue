@@ -1,4 +1,4 @@
-# 🏙️ CityIssue – Sistema de Gestão de Chamados Urbanos
+# CityIssue – Sistema de Gestão de Chamados Urbanos
 
 O **CityIssue** é uma aplicação web desenvolvida em **Rust** que permite que cidadãos registrem problemas urbanos (buracos, iluminação, lixo, etc.) e que administradores gerenciem esses chamados através de um painel administrativo.
 
